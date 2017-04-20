@@ -1,6 +1,6 @@
 # Sketch-Set-Font-Size-Plugin
 
-Place it smack-dab in the middle of Sketchs 'Plugins'-folder.
-Strike **cmd + shift + F** to activate the new cruise control for cool.
+1. Place the _Sketch Set Font Size_-folder smack-dab in the middle of Sketchs 'Plugins'-folder.
+2. Strike **cmd + shift + F** and watch your life truly unfold.
 
 ![alt text](https://i.giphy.com/vH29oUjAgu7HG.gif "Yyyyyyes! Yes!.... Yes!")
