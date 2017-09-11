@@ -1,0 +1,83 @@
+{
+  "name": "AdamSzakal/Sketch-Set-Font-Size-Plugin",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Set Font Size Plugin",
+  "branch": "",
+  "style": {
+    "name": "Swiss",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/SwissHeader",
+      "article": "article/SwissArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "heading": {
+      "fontWeight": 700,
+      "letterSpacing": "-0.01em"
+    },
+    "layout": {
+      "fluid": true
+    },
+    "colors": {
+      "text": "#000",
+      "background": "#fff",
+      "primary": "#05a",
+      "secondary": "#444",
+      "highlight": "#f30",
+      "border": "#ccc",
+      "muted": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/AdamSzakal/Sketch-Set-Font-Size-Plugin",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "Sketch-Set-Font-Size-Plugin",
+      "subhead": "It's a plugin. For Sketch. That sets font size.",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "Sketch-Set-Font-Size-Plugin: It's a plugin. For Sketch. That sets font size.",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "AdamSzakal",
+          "repo": "Sketch-Set-Font-Size-Plugin"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n<ol>\n<li>Do the double-clicky-dance with <em>&apos;Sketch Set Font Size.sketchplugin&apos;</em>.</li>\n<li>Strike <strong>cmd + shift + F</strong> and watch your life truly unfold.</li>\n</ol>\n<p><img src=\"https://i.giphy.com/vH29oUjAgu7HG.gif\"></p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/AdamSzakal/Sketch-Set-Font-Size-Plugin",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/AdamSzakal",
+          "text": "AdamSzakal"
+        }
+      ]
+    }
+  ]
+}
